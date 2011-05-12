@@ -1,0 +1,1 @@
+This is a simple code kata for learing Regular expressions in c#. It is test driven
